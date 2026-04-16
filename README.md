@@ -4,7 +4,7 @@
 Simple Interest Calculator
 
 ## Project Details
-A calculator that computes simple interest based on the principal amount, annual rate of interest, and time period in years.
+A calculator that calculates simple interest based on the principal amount, annual rate of interest, and time period in years.
 
 ```
 Input:
