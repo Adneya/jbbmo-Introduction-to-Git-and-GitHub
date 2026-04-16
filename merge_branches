@@ -1,0 +1,16 @@
+Command:
+git checkout main
+
+Output:
+Your branch is up to date with 'origin/main'.
+Switched to branch 'main'
+
+Command:
+git merge bug-fix-typo
+
+Output:
+Updating cfbbeb4..508ffca
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+

@@ -1,0 +1,12 @@
+Command:
+git branch -a -vv
+
+Output:
+  bug-fix-typo                508ffca [origin/bug-fix-typo] Refine wording in README for merge evidence
+* main                        508ffca [origin/main] Refine wording in README for merge evidence
+  master                      83026bb [origin/master] Delete close_pr.yml
+  remotes/origin/HEAD         -> origin/master
+  remotes/origin/bug-fix-typo 508ffca Refine wording in README for merge evidence
+  remotes/origin/main         508ffca Refine wording in README for merge evidence
+  remotes/origin/master       83026bb Delete close_pr.yml
+
